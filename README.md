@@ -2,8 +2,14 @@
 
 List of CSS [font stretches](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch):
 - normal
-- italic
-- oblique
+- condensed
+- semi-condensed
+- extra-condensed
+- ultra-condensed
+- expanded
+- semi-expanded
+- extra-expanded
+- ultra-expanded
 
 ## Installation
 

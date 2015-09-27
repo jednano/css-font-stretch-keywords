@@ -1,6 +1,6 @@
 {
   "name": "css-font-stretches",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of CSS font stretches.",
   "main": "index.json",
   "scripts": {
