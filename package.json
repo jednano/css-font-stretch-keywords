@@ -1,0 +1,25 @@
+{
+  "name": "css-font-stretches",
+  "version": "1.0.0",
+  "description": "List of CSS font stretches.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmao/css-font-stretches.git"
+  },
+  "keywords": [
+    "css",
+    "font",
+    "stretch",
+    "stretches"
+  ],
+  "author": "Jed Mao <jedmao@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmao/css-font-stretches/issues"
+  },
+  "homepage": "https://github.com/jedmao/css-font-stretches#readme"
+}
