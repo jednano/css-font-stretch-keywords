@@ -20,8 +20,8 @@ npm install css-font-stretch-keywords [--save[-dev]]
 ## Usage
 
 ```js
-var cssFontStretches = require('css-font-stretch-keywords');
-cssFontStretches; /*
+var fontStretchKeywords = require('css-font-stretch-keywords');
+fontStretchKeywords; /*
 [
 	"normal",
 	"condensed",

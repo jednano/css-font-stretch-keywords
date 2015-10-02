@@ -1,7 +1,7 @@
 {
   "name": "css-font-stretch-keywords",
-  "version": "1.0.0",
-  "description": "List of CSS font stretches.",
+  "version": "1.0.1",
+  "description": "List of CSS font stretch keywords.",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "css",
     "font",
     "stretch",
-    "stretches"
+    "keywords"
   ],
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
