@@ -1,4 +1,4 @@
-# css-font-stretches
+# css-font-stretch-keywords
 
 List of CSS [font stretches](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch):
 - normal
@@ -14,13 +14,13 @@ List of CSS [font stretches](https://developer.mozilla.org/en-US/docs/Web/CSS/fo
 ## Installation
 
 ```
-npm install css-font-stretches [--save[-dev]]
+npm install css-font-stretch-keywords [--save[-dev]]
 ```
 
 ## Usage
 
 ```js
-var cssFontStretches = require('css-font-stretches');
+var cssFontStretches = require('css-font-stretch-keywords');
 cssFontStretches; /*
 [
 	"normal",
